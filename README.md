@@ -4,9 +4,5 @@
 
 **Connect with me ¬**
 
-- [Personal website](https://alexcarpenter.me)
-- [Twitter](https://twitter.com/hybrid_alex)
-- [YouTube](https://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg)
-- [LinkedIn](https://www.linkedin.com/in/imalexcarpenter/)
-- [Instagram](https://www.instagram.com/alexcarp/)
+[Personal website](https://alexcarpenter.me) • [Twitter](https://twitter.com/hybrid_alex) • [YouTube](https://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg) • [LinkedIn](https://www.linkedin.com/in/imalexcarpenter/) • [Instagram](https://www.instagram.com/alexcarp/)
 
